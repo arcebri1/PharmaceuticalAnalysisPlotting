@@ -19,6 +19,7 @@ In their most recent animal study, 249 mice identified with SCC tumor growth wer
 3. The total count of mice per gender was almost 50/50. 124 female mice and 125 male mice.
 4. Infubinol seemed to be the only one with an outlier.
 5. The longer in treatment the smaller the tumor volumen.
+6. Mouse weight correlated strongly with average tumor volume.
 
 # What I did:
 
