@@ -29,19 +29,35 @@ In their most recent animal study, 249 mice identified with SCC tumor growth wer
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
+![](images/summary.png)
+
 * Generated a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
+
+![](images/totalmicepertreatment.png)
 
 * Generated a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
 
+![](fvm.png)
+
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculated the quartiles and IQR and quantitatively determined if there are any potential outliers across all four treatment regimens.
+
+![]()
 
 * Using Matplotlib, I generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
 
+![](images/boxwhiskerplot.png)
+
 * Selected a mouse that was treated with Capomulin and generated a line plot of tumor volume vs. time point for that mouse.
+
+![](images/treatmentmouse.png)
 
 * Generated a scatter plot of mouse weight vs. average tumor volume for the Capomulin treatment regimen.
 
+![](images/avgmouseweightvstumor.png)
+
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the linear regression model on top of the previous scatter plot.
+
+![](images/regressionweightvstumor.png)
 
 
 - - -
