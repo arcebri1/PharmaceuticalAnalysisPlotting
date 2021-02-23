@@ -37,7 +37,7 @@ In their most recent animal study, 249 mice identified with SCC tumor growth wer
 
 * Generated a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
 
-![](fvm.png)
+![](images/fvm.png)
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculated the quartiles and IQR and quantitatively determined if there are any potential outliers across all four treatment regimens.
 
