@@ -41,7 +41,7 @@ In their most recent animal study, 249 mice identified with SCC tumor growth wer
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculated the quartiles and IQR and quantitatively determined if there are any potential outliers across all four treatment regimens.
 
-![]()
+![](images/quartilesgif.gif)
 
 * Using Matplotlib, I generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
 
